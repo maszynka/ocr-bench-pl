@@ -1,0 +1,435 @@
+                                                                   Wrocław, 29 kwietnia 2020r.
+
+
+                                  Standardy pisania pracy magisterskiej
+
+
+     1. Praca magisterska – definicja
+          Praca magisterska jest pracą mającą charakter badawczy. Jest autorską pracą studenta,
+co oznacza, że magistrant pisze ją samodzielnie (bez udziału osób trzecich) pod kierunkiem
+promotora. Ogólne zasady przygotowywania prac dyplomowych na kierunku Psychologia w
+Wydziale Psychologii we Wrocławiu SWPS Uniwersytetu Humanistycznospołecznego
+określone zostały w Zarządzeniu Dziekana nr 6/2019.
+
+
+                                            Pomocne materiały
+
+ ✓ Zarządzenie nr 6/2019 Dziekana Wydziału Psychologii we Wrocławiu, Filia we
+       Wrocławiu SWPS Uniwersytetu Humanistycznospołecznego z dnia 1 października
+       2019 roku
+
+
+     2. Standardy edytorskie i formatowanie pracy magisterskiej
+          Praca magisterska powinna mieć formę rozbudowanego artykułu badawczego (ok. 2
+arkusze wydawnicze, czyli ok. 44 strony tekstu zasadniczego nie licząc załączników, z
+zachowaniem aktualnych standardów American Psychological Association (APA, 2020).
+
+
+                                                 Ważne
+
+ Najczęściej popełniane błędy związane ze standardami APA to m.in.: brak odpowiedniego
+ formatowania różnego poziomu nagłówków w pracy, nieprawidłowy format odsyłaczy w
+ tekście oraz zapisów bibliograficznych, niewłaściwe stosowanie czcionki pochyłej lub
+ pogrubionej w tekście, stosowanie przypisów dolnych zamiast odsyłaczy w tekście,
+ nieprawidłowe formatowanie tabel i rycin (wraz z ich nagłówkami, tytułami, legendami).
+
+
+
+          Praca magisterska powinna być odpowiednio sformatowana:
+
+
+SWPS Uniwersytet Humanistycznospołeczny
+                                                                                       www.swps.pl
+Wydział Psychologii we Wrocławiu
+ul. Ostrowskiego 30b, 53-238 Wrocław
+−    Czcionka: jeden rodzaj czcionki w całej pracy (np. czcionka Times New Roman w
+     rozmiarze 12 lub odpowiednik)
+−    Właściwości akapitu: tekst wyrównany do lewej, wcięcie przy pierwszym wersie
+     (rozpoczęcie akapitu) = 1,25 cm (Tab), odstępy przed i po = 0 pkt, interlinia podwójna
+−    Ustawienia marginesów: margines górny, dolny, lewy, prawy = 2,5 cm
+−    Numeracja stron: automatyczna numeracja stron w prawym górnym rogu strony
+−    Wyłączenie opcji dzielenia wyrazów.
+          Pracę należy formatować przy użyciu odpowiednich funkcji programu do edycji tekstu
+(np. używanie klawisza Tab do rozpoczęcia akapitu, zamiast wielokrotnej spacji).
+
+
+                                          Pomocne materiały
+
+ ✓ American Psychological Association. (2020). Publication manual of the American
+       Psychological Association (7th ed.). https://doi.org/10.1037/0000165-000 (książka
+       dostępna w bibliotece)
+ ✓ Zalecenia APA w wersji internetowej → LINK
+ ✓ Zarządzenie nr 6/2019 Dziekana Wydziału Psychologii we Wrocławiu, Filia we
+       Wrocławiu SWPS Uniwersytetu Humanistycznospołecznego z dnia 1 października
+       2019 roku
+
+
+     3. Struktura pracy magisterskiej
+          Praca magisterska powinna opisywać wyniki eksperymentalnego, ilościowego lub
+jakościowego projektu badawczego z uwzględnieniem następujących części:
+    A. Strona tytułowa
+    B. Spis treści
+    C. Streszczenie (w języku polskim i angielskim)
+    D. Rozdziały (treść pracy)
+    E. Bibliografia
+    F. Załączniki (jeżeli są)
+                                               Ważne
+
+
+
+
+SWPS Uniwersytet Humanistycznospołeczny
+                                                                                      www.swps.pl
+Wydział Psychologii we Wrocławiu
+ul. Ostrowskiego 30b, 53-238 Wrocław
+ Zgodnie z zaleceniami APA, każda część pracy (strona tytułowa, streszczenia, spis treści,
+ pierwszy rozdział, bibliografia oraz załączniki) powinna rozpocząć się na nowej stronie.
+ Kolejne rozdziały w treści pracy magisterskiej powinny jednak rozpoczynać się pod
+ poprzednim rozdziałem (nie na nowej stronie).
+
+
+
+     A. Strona tytułowa
+          Strona tytułowa jest pierwszą stroną pracy magisterskiej. Znajdują się na niej: pełna
+nazwa uczelni i wydziału, kierunek i tryb studiów, imię i nazwisko autora pracy wraz z jego
+nr albumu, tytuł pracy magisterskiej w języku polskim i angielskim, słowa kluczowe,
+tytuł/stopień naukowy, imię i nazwisko promotora, miejsce i rok bieżący. Powinna być
+wypełniona zgodnie ze wzorem obowiązującym na wydziale w momencie składania pracy do
+systemu.
+
+
+                                          Pomocne materiały
+
+ ✓ Wzór stron tytułowej (dostęp dla promotora) → Wirtualna Uczelnia → Akademicki
+       System Archiwizacji Prac → Do druku
+ ✓ Wzór stron tytułowej (dostęp dla magistranta) → Wirtualna Uczelnia → Studia →
+       Egzamin dyplomowy → Egzamin licencjacki lub Egzamin magisterski
+
+
+                                               Ważne
+
+ Pomimo braku założonego limitu słów (w zaleceniach APA), zaleca się, aby tytuł pracy
+ magisterskiej był krótki oraz odzwierciedlał problem poruszany w pracy (uwzględniający
+ zmienne i zakładane relacje między nimi oraz badaną populację).
+
+
+
+
+     B. Streszczenie
+
+
+
+
+SWPS Uniwersytet Humanistycznospołeczny
+                                                                                         www.swps.pl
+Wydział Psychologii we Wrocławiu
+ul. Ostrowskiego 30b, 53-238 Wrocław
+          Streszczenia w języku polskim i w języku angielskim powinny się pojawić zaraz po
+stronie tytułowej (na dwóch osobnych stronach rozpoczynając od streszczenia w języku
+polskim). Oba streszczania powinny mieć taką samą treść.
+          Streszczenie ma formę jednego akapitu, może (ale nie musi) uwzględniać podział na
+sekcje (najczęściej: Cel pracy, Metoda, Wyniki, Dyskusja). Zgodnie z wytycznymi APA
+streszczenie powinno zawierać do 250 słów.
+
+
+     C. Spis treści
+          W spisie treści powinny znaleźć się numery stron do wszystkich części pracy
+oznaczonych nagłówkami w tekście. W związku z brakiem wytycznych APA dotyczących
+spisu treści zaleca się stosowanie tych do formatowania tekstu (patrz: punkt 2. Standardy
+edytorskie i formatowanie pracy magisterskiej). Zaleca się również stosowanie
+automatycznych spisów treści.
+
+
+                                          Pomocne materiały
+
+ ✓ Tworzenie automatycznego spisu treści → LINK
+
+
+     D. Rozdziały (treść pracy)
+          Główna treść pracy magisterskiej dzieli się na dwie zasadnicze części: (1) część
+teoretyczną (zawierającą tzw. przegląd literatury dotyczący podstaw postawionych w pracy
+hipotez) oraz (2) część empiryczną (zawierającą opis przeprowadzonych badań, uzyskanych
+rezultatów oraz dyskusji wyników). Każda z tych części została dokładniej opisana poniżej:
+
+
+          1) Część teoretyczna pracy
+          Część teoretyczna pracy magisterskiej powinna zawierać: (1) definicje kluczowych
+zmiennych (na podstawie przeglądu literatury) ze wskazaniem dlaczego wybranym
+problemem należy się zająć, (2) prezentację podejścia lub podejść teoretycznych, które
+wyjaśniają założone w pracy relacje między zmiennymi, (3) przegląd badań na temat
+założonych w pracy relacji między zmiennymi prowadzonych w podobnych populacjach (z
+uwzględnieniem krótkiego opisu hipotez badawczych, próby badawczej, metod i wyników)
+
+
+
+SWPS Uniwersytet Humanistycznospołeczny
+                                                                                         www.swps.pl
+Wydział Psychologii we Wrocławiu
+ul. Ostrowskiego 30b, 53-238 Wrocław
+wraz z podsumowaniem (czego w dotychczasowych badaniach brakuje, co w związku z tym
+praca magisterska wniesie do obecnego stanu wiedzy), (4) cel badania, pytania i/lub hipotezy
+badawcze (mające swoje uzasadnienie w poprzednich punktach).
+
+
+                                                         Ważne
+
+ Część teoretyczna pracy powinna dotyczyć tylko zmiennych mierzonych w badaniu oraz
+ tylko teorii i badań będących podstawą postawionych hipotez. Nie powinna więc
+ obejmować przeglądu wszystkich teorii dotyczących danego zagadnienia ani badań
+ prowadzonych na zmiennych innych niż te wykorzystywane w badaniu własnym.
+
+
+
+          Część teoretyczna pracy magisterskiej tworzy wprowadzenie do części empirycznej.
+          Część teoretyczna może być zawarta w jednym rozdziale bądź w kilku rozdziałach
+(zazwyczaj max. 4). Poszczególne części mogą być od siebie wyraźnie oddzielone (np.
+podrozdziałami), albo przenikać się w tekście.
+
+
+Tabela 1
+Przykładowy podział części teoretycznej pracy magisterskiej na dwa i cztery rozdziały.
+                                          Rozdział 1                                     Rozdział 2
+
+                                          ≈ 8-12 stron                                  ≈ 1-2 strony
+
+   Rozdział 1                       Rozdział 2                   Rozdział 3              Rozdział 4
+
+   ≈ 4-6 stron                      ≈ 4-6 stron                  ≈ 6-8 stron            ≈ 1-2 strony
+
+     Definicje                  Teoria lub teorie         Przegląd badań na temat     Cel badania oraz
+   kluczowych                 wyjaśniające relacje       relacji między zmiennymi w   pytania i hipotezy
+   zmiennych                  między zmiennymi             podobnych populacjach          badawcze
+
+          2) Część empiryczna pracy
+          Część empiryczna pracy magisterskiej powinna zawierać: (1) opis metody badań (z
+uwzględnieniem procedury badawczej, osób badanych i narzędzi), (2) opis wyników badań (z
+
+
+SWPS Uniwersytet Humanistycznospołeczny
+                                                                                                www.swps.pl
+Wydział Psychologii we Wrocławiu
+ul. Ostrowskiego 30b, 53-238 Wrocław
+uwzględnieniem wykonanych analiz oraz ich rezultatów), (3) dyskusję (z uwzględnieniem
+weryfikacji postawionych hipotez badawczych i podsumowaniem wyników uzyskanych w
+pracy, odniesieniem ich do teorii i dotychczasowych badań, ograniczeń badania własnego,
+implikacji badania własnego).
+          W opisie metody badań powinny się znaleźć następujące części: (1) Procedura badania
+(gdzie i jak przeprowadzono badanie; jak rekrutowano osoby badane; na czym polegała
+interwencja, jeżeli taką stosowano), (2) Osoby badane (liczebność grupy badawczej i/lub
+podgrup, rozkład wieku i płci w grupie badawczej, inne podstawowe informacje np. dane
+socjodemograficzne), (3) Narzędzia (o każdym z użytych narzędzi: pełna nazwa wraz z
+odsyłacz do źródła, informacja o tym, co mierzy, przykładowa pozycja lub pozycje [w
+przypadku podskal], ilość pozycji, skala odpowiedzi, M i SD oraz współczynnik rzetelności
+obliczone dla wyników ogólnych i wyników w podskalach [lub odnośnik do tabeli z tymi
+danymi]). Opis metody badań powinien być na tyle szczegółowy, aby umożliwić replikację
+badania własnego.
+                                            Ważne
+
+ Jeżeli w pracy magisterskiej opisywanych jest więcej niż jedno badanie (np. badanie
+ pilotażowe i badanie właściwe) to w opisie metody badań należy najpierw przedstawić
+ części „Procedura”, „Osoby badane”, „Narzędzia” dla Badania 1 (np. badania
+ pilotażowego), po czym przedstawiać je dla Badania 2 (np. badania właściwego) itd.
+
+
+
+          Opis wyników badań powinien zawierać informacje o analizach statystycznych
+wykorzystywanych do sprawdzenia postawionych hipotez oraz krótki opis rezultatów
+uzyskanych w wyniku tych analiz. Ta część pracy magisterskiej może być podzielona na kilka
+części, np.: (1) Wyniki analiz wstępnych (najczęściej opis wyników uzyskanych po
+przeprowadzeniu analiz dotyczących np. rozkładu zmiennych, korelacji między zmiennymi
+głównymi i ubocznymi itd., niesprawdzających bezpośrednio hipotez badawczych), (2)
+Wyniki analiz głównych (dotyczące wyników analiz bezpośrednio sprawdzających relacje
+między zmiennymi założone w hipotezach), (3) Wyniki analiz dodatkowych (dotyczące
+
+
+
+
+SWPS Uniwersytet Humanistycznospołeczny
+                                                                                       www.swps.pl
+Wydział Psychologii we Wrocławiu
+ul. Ostrowskiego 30b, 53-238 Wrocław
+    wyników analiz sprawdzających relacje między zmiennymi, które nie były założone w
+    hipotezach, ale z jakichś względów są ważne w danej pracy magisterskiej).
+              Dyskusja w pracy magisterskiej jest podsumowaniem kluczowych wyników i ich
+    interpretacją. Zaleca się omówienie wyników uzyskanych dla każdej z postawionych hipotez,
+    przykładowo stosując następujący schemat: przypomnienie hipotezy, informacja o
+    weryfikacji (oraz stopniu weryfikacji) bądź braku weryfikacji hipotezy, omówienie wyników
+    uzyskanych dla danej hipotezy w świetle wcześniej prowadzonych badań i teorii, opisanych w
+    części teoretycznej pracy (czy wyniki z badań własnych zgadzają się z danymi
+    przedstawionymi w części teoretycznej? jeżeli nie to jakie może być tego wyjaśnienie?).
+    Dyskusja powinna zawierać również informacje o ograniczeniach badań własnych
+    (dotyczących np. procedury, narzędzi, próby badawczej, problemów w realizacji badań itp.)
+    oraz implikacjach badań własnych (jak można wykorzystać wyniki?).
+              Część empiryczna najczęściej zawierana jest w 2-3 rozdziałach. Poszczególne części
+    mogą być od siebie wyraźnie oddzielone (np. podrozdziałami), albo przenikać się w tekście.
+
+
+    Tabela 2
+    Przykładowy podział części empirycznej pracy magisterskiej na dwa i trzy rozdziały.
+         Rozdział 3                                                      Rozdział 4
+
+          ≈ 4-6 stron                                                   ≈ 10-16 stron
+
+         Rozdział 5                                  Rozdział 6                           Rozdział 7
+
+          ≈ 4-6 stron                                ≈ 5-8 stron                          ≈ 6-8 stron
+
+            Metoda:                                Wyniki badań:               Dyskusja: prezentacja wyników dla
+                                                                                        każdej z hipotez
+−     Procedura badań                 −       Wyniki analiz wstępnych
+−     Osoby badane                    −       Wyniki analiz głównych          −   Ograniczenia badań własnych
+−     Narzędzia                       −       Wyniki analiz dodatkowych       −   Implikacje dla praktyki
+                                                             Ważne
+
+
+
+
+    SWPS Uniwersytet Humanistycznospołeczny
+                                                                                                        www.swps.pl
+    Wydział Psychologii we Wrocławiu
+    ul. Ostrowskiego 30b, 53-238 Wrocław
+ Praca magisterska jest pracą badawczą, dlatego też należy zachować odpowiednie
+ proporcje miedzy długością części teoretycznej i badawczej (zalecane 1:1). Propozycje
+ ilości stron w każdej części pracy magisterskiej przedstawiono w Tabeli 1 i w Tabeli 2.
+
+
+
+     E. Bibliografia
+          Bibliografia powinna być listą wszystkich użytych w pracy magisterskich pozycji, do
+których student odnosił się w treści pracy. Bibliografia powinna być przygotowana zgodnie
+ze szczegółowymi wytycznymi APA.
+
+
+                                               Ważne
+
+ W bibliografii nie powinna znaleźć się żadna pozycja niebędąca wykorzystana w tekście i
+ niebędąca w nim oznaczona jako odsyłacz do cytowanej pozycji. Tylko odsyłacze z tekstu
+ powinny być włączone do bibliografii. Pomocne może być stworzenie automatycznego
+ spisu treści.
+
+
+
+                                          Pomocne materiały
+
+ ✓ Zalecenia APA dotyczące tworzenia odsyłaczy w tekście → LINK
+ ✓ Zalecenia APA dotyczące tworzenia bibliografii → LINK
+ ✓ Tworzenie automatycznego spisu treści → LINK
+
+
+     F. Załączniki
+          Do pracy, w ostatniej jej części, można załączyć materiały, które z różnych względów
+nie zostały włączone do głównej treści pracy (np. były zbyt szczegółowe, mogły utrudniać
+czytelnikowi skupienie się na głównym problemie poruszanym w pracy), a które jednak nadal
+pełnią ważną lub uzupełniającą funkcję w pracy. Mogą to być np. wykorzystane w badaniu
+narzędzia, tabela uwzględniające wyniki analiz dodatkowych.
+     4. Seminarium magisterskie
+
+
+
+
+SWPS Uniwersytet Humanistycznospołeczny
+                                                                                      www.swps.pl
+Wydział Psychologii we Wrocławiu
+ul. Ostrowskiego 30b, 53-238 Wrocław
+          Student przygotowuje pracę magisterską ze wsparciem promotora w trakcie
+seminarium magisterskiego. Zasady realizacji seminarium magisterskiego określone zostały
+w załączniku do zarządzenia nr 84/2019.
+
+
+                                          Pomocne materiały
+
+ ✓ Załącznik do Zarządzenia nr 84/2019 Rektora SWPS Uniwersytetu
+       Humanistycznospołecznego z dnia 30 września 2019 roku
+
+
+          Za napisanie pracy magisterskiej odpowiedzialny jest jej autor, czyli magistrant.
+Oznacza to, że magistrant odpowiada za przegląd literatury, dobór metod, przeprowadzenie
+badania i analiz statystycznych, interpretację rezultatów itd., a także za korzystanie z
+możliwości wsparcia promotora. Magistrant powinien również wywiązywać się z
+wyznaczonych w sylabusie oraz uzgodnionych z promotorem zadań i pod koniec każdego
+semestru przedstawić promotorowi aktualny postęp w przygotowywaniu pracy magisterskiej.
+
+
+                                               Ważne
+
+ Szczegóły dotyczące zasad współpracy magistranta z promotorem (np. formy spotkań,
+ preferowanej drogi kontaktu), powinny zostać przedstawione magistrantowi w sylabusie do
+ seminarium magisterskiego lub ustalone bezpośrednio z magistrantem na początku
+ współpracy z promotorem.
+
+
+
+          Promotor powinien umożliwić magistrantowi korzystanie ze swojej pomocy we
+wspólnie uzgodniony sposób (poprzez spotkanie indywidualne z magistrantem, grupowe
+spotkanie z magistrantami lub kontakt zdalny). Promotor wspomaga proces powstawania
+pracy na każdym jego etapie poprzez udzielanie wskazówek, opinii i informacji zwrotnych,
+które magistrant może (ale nie musi) uwzględnić w pracy. Promotor nie poprawia pracy
+magisterskiej za studenta ani nie wyręcza go na żadnym etapie przygotowywania pracy (np.
+nie dokonuje przeglądu literatury, nie tłumaczy publikacji na język polski, nie wyszukuje
+
+
+
+
+SWPS Uniwersytet Humanistycznospołeczny
+                                                                                           www.swps.pl
+Wydział Psychologii we Wrocławiu
+ul. Ostrowskiego 30b, 53-238 Wrocław
+grup badawczych ani narzędzi badawczych, nie stawia hipotez badawczych, nie tworzy bazy
+danych, nie wykonuje analiz statystycznych, nie interpretuje uzyskanych wyników).
+
+
+                                           Ważne
+
+ Zadaniem promotora jest merytoryczny nadzór nad postępami w pisaniu pracy
+ magisterskiej. Do obowiązków promotora nie należy nadzór nad formalną czy językową
+ częścią pracy magisterskiej, jest to obowiązek magistranta. Promotor może w związku z
+ tym odmówić sprawdzenia pracy magisterskiej lub jej części pod kątem merytorycznym,
+ jeżeli błędy formalne lub językowe uniemożliwiają mu to. W takiej sytuacji magistrant
+ powinien poprawić pracę w zakresie formalnym i/lub językowym (samodzielnie, przy
+ pomocy profesjonalnego korektora/edytora itp.), aby umożliwić promotorowi jej
+ merytoryczne sprawdzenie.
+
+
+
+          Końcowym efektem współpracy magistranta z promotorem powinna być praca
+magisterska spełniająca standardy opisane w niniejszym dokumencie oraz odpowiednich
+zarządzeniach wewnątrzuczelnianych w wymiarze umożliwiającym akceptację pracy i jej
+wysłanie do recenzji. Zaakceptowanie pracy jest równoważne z pozytywnym jej ocenieniem
+(skala ocen od 3,0 do 5,0). Jeżeli praca nie spełnia standardów i nie może być zaakceptowana,
+magistrant powinien poprawić pracę uwzględniając nowe lub wcześniej pominięte uwagi
+promotora.
+
+
+                                           Ważne
+
+ Ocena z seminarium magisterskiego nie musi pokrywać się z oceną za pracę magisterską.
+ Magistrant otrzymując niższą ocenę z pracy magisterskiej może w dalszym ciągu otrzymać
+ wyższą ocenę z seminarium magisterskiego, dzięki aktywnej współpracy z promotorem w
+ danym semestrze.
+
+
+
+
+SWPS Uniwersytet Humanistycznospołeczny
+                                                                                     www.swps.pl
+Wydział Psychologii we Wrocławiu
+ul. Ostrowskiego 30b, 53-238 Wrocław
+          Merytoryczne i formalne kryteria oceny prac dyplomowych na kierunku Psychologia
+w Wydziale Psychologii we Wrocławiu SWPS Uniwersytetu Humanistycznospołecznego
+określone zostały w Zarządzeniu Dziekana nr 6/2019.
+
+
+                                          Pomocne materiały
+
+ ✓ Zarządzenie nr 6/2019 Dziekana Wydziału Psychologii we Wrocławiu, Filia we
+       Wrocławiu SWPS Uniwersytetu Humanistycznospołecznego z dnia 1 października
+       2019 roku
+
+
+
+
+SWPS Uniwersytet Humanistycznospołeczny
+                                                                                   www.swps.pl
+Wydział Psychologii we Wrocławiu
+ul. Ostrowskiego 30b, 53-238 Wrocław
+

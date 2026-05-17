@@ -1,0 +1,912 @@
+  SWPS UNIWERSYTET HUMANISTYCZNOSPOŁECZNY
+                      FILIA WE WROCŁAWIU
+                    II WYDZIAŁ PSYCHOLOGII
+                                 Psychologia
+                               Studia I stopnia
+
+
+                                Daniel Bogusz
+                               Nr albumu: 56779
+
+
+                           Praca licencjacka napisana
+                      pod kierunkiem dr Jarosława Kulbata
+
+
+
+
+COVID-19 vs. Szczepienia. Czy ekspozycja relacji szans na zgon
+ dla obydwu zmniejszy lęk przed śmiercią wskutek szczepień?
+
+
+    COVID-19 vs. Vaccines. Will exposure to the relation of chance of death lower
+
+                      fear of death caused by vaccines?
+
+
+
+
+                                Wrocław, 2021
+                                                                                      1
+
+
+                                       Abstrakt
+
+
+​     W związku z rosnącym kryzysem klimatycznym oraz wybuchem pandemii COVID-19
+
+możemy zauważyć jak konieczna jest umiejętność rzetelnej weryfikacji informacji. Równie
+
+istotne, jest dbanie o to, by komunikat który podajemy nie wywołał odwrotnego efektu od
+
+zamierzonego, stając się ofiarą efektu backfire polegającego na mocniejszym okopaniu się
+
+swojej opinii odbiorcy komunikatu. Na przeszkodzie stoją skrzywienia poznawcze, błędy
+
+logiczne oraz opór przed zmianą zdania wzmacniany unikaniem uczucia dysonansu
+
+poznawczego. Tematem tej pracy, było sprawdzenie czy przedstawienie współczynnika
+
+śmiertelności na skutek choroby COVID-19, zestawionego z ponad sześć tysięcy razy
+
+niższym współczynnikiem śmiertelności wskutek niepożądanych odczynów poszczepiennych
+
+nie uodporni, na nie osadzone w kontekście statystycznym, komunikaty o śmiertelności
+
+wskutek szczepień. Nie uzyskano istotnie statystycznych wyników dla tej hipotezy. Nie
+
+zauważono również efektu backfire czyli wzmocnienia postawy występującej przed
+
+ekspozycją nowych danych.
+                                                                                                 2
+
+
+                                            Abstract
+
+
+​      As of the rising climate crisis and the outbreak of the COVID-19 pandemic, we can
+
+see how information verification skills become important. Also, while creating messages, we
+
+need to know if effects won’t become the opposite of our intentions getting a backfire from
+
+cognitive biases, logic errors and people's reluctance to change their opinion fortified by
+
+cognitive dissonance avoidance. The main topic of this study was an experiment to check if
+
+exposure to easily comparable data of COVID-19 death rate in Poland to around six thousand
+
+lower one from undesirable post-vaccination reaction will make survey respondents more
+
+sceptical towards pure exposure of vaccinations fatality rate. Results did not provide
+
+statistically significant proof for this hypothesis. Exposure to the data did not create a backfire
+
+effect so the respondents did not become more sceptical to the vaccines.
+                                                                             3
+
+
+
+
+Abstrakt​                                                                    1
+
+
+Abstract​                                                                    2
+
+
+Wprowadzenie​                                                                6
+
+
+       Na drodze do weryfikacji informacji stoi wiele przeszkód​             7
+
+
+       Kontekstowo tendencyjne rozumowanie​                                  8
+
+
+       Czy sama wiedza o błędach rozumowania wystarczy?​                     9
+
+
+       Mimo wszystko dobrze myśleć racjonalnie​                              9
+
+
+       Jak zmienić własne bądź czyjeś zdanie?​                              10
+
+
+Problem badawczy​                                                           11
+
+
+       Hipotezy główne​                                                     12
+
+
+Metoda badania​                                                             13
+
+
+       Osoby badane​                                                        13
+
+
+       Materiały i procedura​                                               13
+
+
+Wyniki​                                                                     14
+
+
+       Podstawowe statystyki opisowe wraz z testami normalności rozkładu​   15
+
+
+       Analiza wariancji​                                                   16
+
+
+Dyskusja​                                                                   18
+
+
+Bibliografia​                                                               21
+                                                                                        4
+
+
+Wprowadzenie
+
+
+       Przy skali zagrożeń jakim są globalne zmiany klimatyczne typowo ludzki sposób
+
+reagowania na zagrożenia, który w głównej mierze działa na te które są bezpośrednie, łatwo
+
+wyobrażalne i natychmiastowe, powoduje, że nasze wrodzone niedoskonałości w wyciąganiu
+
+wniosków mogą mieć katastrofalne konsekwencje. Wzrost świadomości tego zagrożenia
+
+może być wzmocniony przy ekspozycji na bezpośrednią tragedię spowodowaną tymi
+
+zmianami, taką jak huragan Irma który spowodował zwiększenie się negatywnego stosunku
+
+do zmian klimatycznych i większą skłonność do poświęceń. (Bergquist, M. i inni, 2019)
+
+
+
+
+       Wendy E. Parmet oraz Jeremy Paul (2020) piszą, że również w przypadku pandemii
+
+takich jak COVID-19 skuteczne jej zwalczenie zależy od szerokiego poparcia wśród opinii
+
+społecznej wiarygodnych źródeł informacji. Kontynuują oni dalej, sugerując, że budowanie
+
+zaufania do informacji pochodzących od przedstawicieli zajmujących się zdrowiem
+
+publicznych musi być prowadzone w sposób pomagający zrozumieć podstawy swojego
+
+wnioskowania oraz jasno mówić o tym na co medycyna jeszcze nie ma odpowiedzi.
+
+
+
+       W serii kilku badań przeprowadzonych przez Fernbach i innych (2019) na
+
+reprezentatywnych grupach Amerykanów, Francuzów i Niemców, liczących od 500 do 1000
+
+osób badano korelację wiedzy na temat żywności modyfikowanej genetycznie, stosunku do
+
+tej żywności oraz poczucia pewności samych badanych dotyczącego posiadanej przez nich
+
+wiedzy. W badaniu tym stwierdzono, że obiektywna wiedza korelowała odwrotnie z
+
+poczuciem pewności na temat zakresu własnej wiedzy dotyczącej GMO a osoby, które były
+                                                                                       5
+
+
+najbardziej przeciwne żywności zmodyfikowanej genetycznie były zdecydowanie najmniej
+
+doinformowane w tej tematyce (Fernbach i inni, 2019).
+
+
+
+       Świadomość rodzajów zagrożeń płynących z dezinformacji pozwala zadać sobie
+
+pytania co jest powodem tego, że mimo tak dużych kosztów, ludzie i tak często wierzą w
+
+nieprawdziwe informacje oraz, jeśli to        możliwe, to w jaki sposób zwiększyć
+
+prawdopodobieństwo tego że zmienią zdanie na to bliższe prawdzie?
+
+
+
+
+Na drodze do weryfikacji informacji stoi wiele przeszkód
+
+       Kunda (1990) opisuje w swoim przeglądzie literatury dwa typy tak zwanego
+
+zmotywowanego wnioskowania. W pierwszym mowa o motywacji do dokładności, na to by
+
+dojść do wniosków zgodnych z rzeczywistością. Typ ten uprawdopodabnia kierowanie się
+
+przekonaniami oraz strategiami wnioskowania, które są najlepsze do celu rzetelnej
+
+weryfikacji informacji. Z kolei w typie drugim występuje motywacja do dojścia do
+
+konkretnych, z góry wcześniej ustalonych, wniosków które pasują do przekonań danej osoby,
+
+co z kolei powoduje użycie przekonań i strategii w odnajdywaniu argumentów służących
+
+wspieraniu tez które chcemy dowieść. Ludzie najczęściej kierują się motywacją skierowaną
+
+do dojścia do ustalonych wcześniej wniosków. Mimo negatywnego efektu takiej strategii, w
+
+postaci mocno utrudnionego dojścia do rzetelnych informacji, samo wnioskowanie
+
+zmotywowane do konkretnych wniosków może promować wiarę w siebie czy dobre
+
+samopoczucie i też z tego, powodu posiadać cechy adaptatywne. Gorzej, jeśli na podstawie
+
+takiej strategii zostają wysunięte wnioski które sprowadzą do działania w obszarach, w
+                                                                                          6
+
+
+których rzetelna wiedza byłaby wskazana, chociażby jak znajomość wczesnych symptomów
+
+nowotworu i świadomość konieczności reagowania na nie (Kunda, Z.,1990).
+
+
+
+       Istnieje ponad to empirycznie udowodniony modelu dwóch systemów przetwarzania,
+
+które w przypadku wersji opisanej przez Kahnemana (2003) jest definiowane jako podział na
+
+system pierwszy: szybki, intuicyjny, dużo częściej używany oraz drugi: refleksyjny. W swojej
+
+pracy autor opisuje pierwszy jako ten używany do znacznie bardziej podatnego na
+
+zniekształcenia przetwarzania rzeczywistości i charakteryzuje się chociażby pozornym
+
+przeświadczeniem o byciu, w momencie jego aktywacji, racjonalnym i posiadaniu racji oraz
+
+drugi system, powolny, racjonalny który jest znacznie bardziej odporny na zniekształcenia
+
+poznawcze i heurystyki.
+
+
+Kontekstowo tendencyjne rozumowanie
+
+       Skrzywienia poznawcze możemy opisać jako powtarzalny wzorzec nieracjonalnego
+
+postrzegania rzeczywistości (Haselton i inni, 2015). Nickerson (1998) pisze, że ludzie
+
+naturalnie nie uczą się strategii poprawnej weryfikacji hipotez. Opisuje on jeden z błędów
+
+poznawczych, zwany efektem potwierdzenia jako najprawdopodobniej najistotniejszy aspekt
+
+ludzkiego wnioskowania. W swoim artykule wnioskuje również, że naszą wrodzoną
+
+skłonność do poszukiwania dowodów zgodnych z naszymi przekonaniami, wyrażamy
+
+również   poprzez    poszukiwania    argumentów     ośmieszających    kontr-argumenty    dla
+
+faworyzowanej przez nas tezy. Zaznacza on, że problemem w takim wnioskowaniu jest to, że
+
+nie poszukujemy aktywnie argumentów mogących pokazać, że nasza faworyzowana teza jest
+
+błędna, przez co utrudniamy sobie jej efektywną weryfikację (Nickerson, 1998).
+                                                                                           7
+
+
+
+Czy sama wiedza o błędach rozumowania wystarczy?
+
+       Pronin i inni (2002) dowodzą, że nie. Omawiany tu efekt nazywany jest “ślepą
+
+plamką”. Poprzez serię trzech eksperymentów sprawdzali oni jakie przekonanie na temat
+
+własnej i innych odporności do wpadania w tendencyjność wywołaną skrzywieniami
+
+poznawczymi mają studenci psychologii z uczelni Stanford. W pierwszym eksperymencie
+
+studenci ci uważali się za bardziej odpornych na te błędy poznawcze od przeciętnych
+
+Amerykanów. W drugim, studenci ci, podtrzymali to samo zdanie jednak tym razem w
+
+stosunku do swoich kolegów z tego samego kierunku. Badacze, już w ostatnim swoim
+
+eksperymencie, zapytali o przekonanie na temat uleganiu błędom poznawczym losowych
+
+podróżnych na lotnisku. Ci również uważali, że są na nie bardziej odporni od ich kolegów,
+
+podróżnych, z lotniska (Pronin i inni, 2002).
+
+
+
+
+Mimo wszystko dobrze myśleć racjonalnie
+
+       Phillips i inni (2016) udowadniają, że mimo iż tryb myślenia racjonalnego nie jest tym
+
+najczęściej stosowanym, ma on wymierne zalety w postaci podejmowania lepszych decyzji.
+
+W swoim badaniu przedstawiają, że choć siła korelacji między stylem myślenia racjonalnego
+
+a optymalnością podjętych decyzji zależy od typu decyzji, to bez względu na to jakiego
+
+rodzaju są decyzje, czy to oparte na doświadczeniu czy też o podany opis, uruchomienie stylu
+
+myślenia racjonalnego przewiduje większą ilość poprawnych decyzji. W ich badaniach
+
+korelacja ta była szczególnie istotna dla decyzji nie opartych na wcześniejszym
+
+doświadczeniu (Phillips, W. J., Fletcher, J. M., Marks, A. D., & Hine, D. W. 2016).
+                                                                                        8
+
+
+
+Jak zmienić własne bądź czyjeś zdanie?
+
+       Lazer i inni (2018) definiują tzw. “fake news” jako sfabrykowaną informację, która
+
+naśladuje typowe informacje prasowe jednak której powstaniu nie towarzyszy przestrzeganie
+
+typowo przyjętych prasowych procedur weryfikacji rzetelności danej informacji. W swoim
+
+artykule proponują dwa podejścia do pomocy w walce z fake newsami: jedno polegające na
+
+wzmacnianiu zdolności w rozróżnianiu fake newsów od prawdziwych informacji drugie na
+
+zmianach strukturalnych wymierzonych w prewencję ekspozycji ludzi na fake newsy (Lazer i
+
+inni 2018).
+
+
+
+       Kolejną przeszkodą mógłby być tzw. “backfire effect” który opisują Nyhan, B. i
+
+Reifler (2010). Badacze definiują go jako efekt, który polega na tym, że gdy podajemy
+
+korekcie argumenty posiadane przez odbiorcę komunikatu, odbiorca ten, jeszcze silniej
+
+będzie wierzył w swoje oryginalne przekonania. Efekt ten w serii eksperymentów
+
+prowadzonych przez wymieniony zespół zachodził tym silniej im bardziej konserwatywne
+
+poglądy wskazywali badani. Na szczęście jednak zauważony efekt nie był w późniejszym
+
+okresie tak łatwo replikowany i jest szansa, że jego wpływ jest mniejszy, bądź też nawet w
+
+ogóle nie zachodzi co w swoim przeglądzie zauważył Swire-Thompson i inni (2020).
+
+
+
+       Horne i inni (2015) zamiast poprawiać fałszywe informacje, zapewniając o
+
+bezpieczeństwie szczepionek, eksponowali badanych na informacje o negatywnych skutkach
+
+nieszczepienia. Zaznaczają oni trudność w przedstawieniu braku ryzyka w badaniach oraz to
+
+że powtarzanie informacji nieprawdziwej (nawet w momencie jej korygowania) poprzez
+
+zwiększenie ekspozycji może zwiększyć jej zapamiętanie bez kontekstu (czyli odbiorcy
+                                                                                       9
+
+
+zapamiętali by tylko samą “szkodliwość szczepionek" bez kontekstu, w którym tłumaczona
+
+była by jej skrajnie niewielkie prawdopodobieństwo).
+
+
+
+
+                                   Problem badawczy
+
+
+       Problemem poruszanym w tym badaniu jest poszukiwanie modelu przekazywania
+
+informacji który jest choć po części odporny na wymienione wcześniej przeszkody. W
+
+przypadku oceny, z której wynikałaby zmiana zadeklarowanego wcześniej zdania, wydaje się
+
+zasadnym, móc wyrazić ją na skali. Taki sposób deklaracji, poprzez zmniejszenie
+
+prawdopodobieństwa zaznaczenia początkowo skrajnych postaw, daje potencjał na
+
+zmniejszenie dysonansu poznawczego poprzez to, że zmiana zdania nie musi być tak skrajna.
+
+Jako omawiany parametr wybrano współczynnik zgonów ze względu na jego łatwość w
+
+porównywaniu. Również o ocenę ryzyka śmiertelności pytano w testach poglądów po
+
+przeprowadzonych manipulacjach.
+
+
+       Motywacją badania było poszukiwanie rzetelnej metody podawania informacji
+
+dotyczących szczepień, w taki sposób, by przez przypadek nie zwiększać oporu przed nimi.
+
+Ponieważ jedną z metod użytych przez Horne i innych, w swojej pracy z 2020 roku, było
+
+skupienie się na negatywnych skutkach choroby COVID-19 w celu przeciwdziałania efektowi
+
+backfire, użyto podobnej, jednak polegającej na możliwości porównania skutków szczepień i
+
+choroby. Dodatkowo, poprzez lepsze zrozumienie relacji prawdopodobieństw płynących z
+
+zagrożeń oraz kosztów alternatywnych wynikających z nieszczepienia się (w postaci skutków
+
+choroby COVID-19) powstaje możliwość odniesienia, później napotkanych danych
+
+dotyczących śmiertelności, w znany kontekst statystyczny i w ten sposób zniwelowanie
+
+dez-informacyjnego wpływu tych treści.
+                                                                                        10
+
+
+       Forma badania jest efektem poszukiwań prostego do aplikowania, oraz łatwego w
+
+zrozumieniu dla odbiorcy, sposobu prezentacji danych który nie wywołałby efektu backfire
+
+oraz zwiększyłby zrozumienie kwestii kosztów alternatywnych tj. skutków nieszczepienia się.
+
+
+Badanie zawierało dwie manipulacje:
+
+
+   ●​ Ekspozycja na porównanie prawdopodobieństwa zgonu wskutek przejścia choroby
+
+       COVID-19 do ponad sześć tysięcy razy mniejszego ryzyka zgonu wskutek szczepień
+
+       (COVID vs NOP). Dla grupy A była to druga manipulacja a dla grupy B pierwsza.
+
+   ●​ Ekspozycja danych dotyczących samych zgonów wskutek niepożądanych odczynów
+
+       poszczepiennych (NOP) bez kontekstu prawdopodobieństwa zgonu na COVID-19
+
+       (NOP). Dla grupy A była to pierwsza manipulacja a dla grupy B druga.
+
+
+Po każdej z manipulacji przeprowadzono test o zdanie dotyczące zagrożenia śmierci wskutek
+
+przejścia COVID-19 versus wskutek NOPów. Po pierwszej jako pretest i drugiej manipulacji
+
+jako posttest.
+
+
+
+
+Hipotezy główne
+
+H1: Prezentacja relacji prawdopodobieństw COVID vs NOP zmniejszy ocenę zagrożenia z
+
+NOPów w preteście w porównaniu do ekspozycji na same NOP'y.
+
+
+H2: Poprzez ekspozycję na relację COVID vs NOP późniejsza ekspozycja na szansę zgonów
+
+wskutek samych NOPów nie będzie już tak wzmacniała negatywnej oceny zagrożeń z
+
+NOPów w Teście.
+                                                                                           11
+
+
+                                      Metoda badania
+
+
+Osoby badane
+
+       Badanie zostało przeprowadzone w formie ankiety internetowej, w języku polskim,
+
+wśród osób korzystających z mediów społecznościowych. Odbywało się ono indywidualnie w
+
+warunkach naturalnych (domowych), w których przebywa osoba badana, wraz ze swoim
+
+komputerem lub smartfonem. Trwało przeciętnie 3 minuty. O czasie trwania osoby biorące
+
+udział zostały wcześniej poinformowane.
+
+
+
+
+       Łącznie w badaniu, po odjęciu osób które go nie dokończyły, udział wzięło 69 osób, z
+
+których 45 to kobiety, a 23 to mężczyźni. Ośmioro badanych mieszkało w miejscowości do
+
+50 tys. osób, sześcioro w mieście pomiędzy 50 a 150 tys. osób, dziesięć w 150 tys. do 500 tys.
+
+a czterdzieści w mieście powyżej 500 tys. osób. Badani zostali poinformowani o
+
+anonimowym udziale w badaniu, jego dobrowolności oraz o możliwości jego przerwania bez
+
+ponoszenia jakichkolwiek konsekwencji.
+
+
+
+
+Materiały i procedura
+
+       W badaniu zostały przedstawione na planszy dane odnoszące się do sytuacji
+
+epidemicznej w Polsce z dnia 2 Czerwca 2021 roku pochodzące z serwisu ourworldindata.org
+
+(2021) a statystyki dotyczące niepożądanych odczynów poszczepiennych z gov.pl (2021).
+
+
+       Badani odwiedzali ankietę przygotowaną na platformie Qualtrics. W pierwszej części
+
+odpowiadali oni na typowe pytania demograficzne takie jak wiek, płeć, wykształcenie i
+                                                                                         12
+
+
+wielkość miejsca zamieszkania. W kolejnej następował losowy przydział do grup A i B.
+
+Manipulacja polegająca na pokazaniu planszy z informacjami o niepożądanych odczynach
+
+poszczepiennych (NOP) i związanymi z nimi zgonami pojawiła się jako pierwsza dla grupy A
+
+i jako druga dla grupy B. Manipulacja polegająca na pokazaniu planszy z bezwzględnymi
+
+wartościami liczbowymi oraz stosunkiem zgonów wskutek NOP'ów wraz takimi samymi
+
+danymi dla przejścia choroby COVID-19 umożliwiająca porównanie tych dwóch zdarzeń
+
+pojawiła się jako pierwsza dla grupy A i druga dla grupy B. Po każdej z manipulacji
+
+przeprowadzono test poglądów który polegał na ocenie w skali 0-10 tego jak duża jest szansa,
+
+że w konsekwencji zaszczepienia się na COVID-19 wystąpi zgon porównując to do
+
+możliwości zgonu w następstwie przejścia choroby COVID-19. Zero oznaczało że
+
+szczepienie ma znacznie większą szansę wywołać zgon niż choroba COVID-19 a dziesięć
+
+oznacza, że szansa na zgon jest znacznie większa przy przejściu samej choroby niż przy
+
+szczepieniu.
+
+
+Wyniki
+
+
+       W celu udzielenia odpowiedzi na postawione pytania badawcze i przetestowania
+
+postawionych hipotez wykonane zostały analizy statystyczne przy użyciu oprogramowania
+
+IBM SPSS Statistics w wersji 25. Za jego pomocą wykonano analizę podstawowych statystyk
+
+opisowych, testy normalności rozkładu Shapiro-Wilka oraz jednoczynnikową analizę
+
+wariancji z powtarzanym pomiarem. Za próg istotności statystycznej w niniejszej rozdziale
+
+przyjęto wartość α = 0,05.
+                                                                                            13
+
+
+Podstawowe statystyki opisowe wraz z testami normalności rozkładu​
+
+       Przed przystąpieniem do przetestowania postawionej hipotezy badawczej wyliczone
+
+zostały podstawowe statystyki opisowe wraz z testami normalności rozkładu Shapiro-Wilka
+
+dla pomiaru pretestu i posttestu w podzielę na grupy badawcze. Wyniki przeprowadzonych
+
+testów wykazały, że rozkłady wyników pre i post-testu dla grupy A i B różniły się istotnie
+
+statystycznie od modelowego rozkładu normalnego. W celu wyboru rodzaju analizy do
+
+przetestowania hipotezy badawczej skorzystano z tzw. reguły kciuka dot. analizy wartości
+
+skośności. Jeśli wartość skośności zawiera się w przedziale od – 1 do 1 można wtedy uznać,
+
+że rozkład wyników nie jest za bardzo asymetryczny co w konsekwencji pozwala na
+
+przeprowadzenie testów parametrycznych. Wartości skośności wszystkich pomiarów w obu
+
+grupa zawierały się w przyjętym przedziale. Zbiorczo wyniki przedstawiono w tabeli 1 i 2.
+
+
+
+
+       Tabela 1
+
+
+       Podstawowe statystyki opisowe wraz z testami normalności rozkładu Shapiro-Wilka ​
+
+dla grupy A
+
+
+              Zmienne                                                                       p
+                                       e     D      k.    urt.   in.   aks.
+               Pretest
+                               ,39   1,12   ,36    0,31   ,00    ,25   ,00    ,74   0,001
+              Posttest
+                               ,65   1,13   ,36    0,42   ,00    ,50   0,00   ,69   0,001
+
+
+
+
+       Tabela 2
+                                                                                                              14
+
+
+       Podstawowe statystyki opisowe wraz z testami normalności rozkładu Shapiro-Wilka ​
+
+dla grupy B
+
+
+                Zmienne                                                                                       p
+                                      e        D         k.        urt.        in.   aks.
+                Pretest
+                              ,98   1,39       ,46   ,79           ,00         ,00   0,00       ,73   0,001
+                Posttest
+                              ,79   0,94       ,46   0,27          ,00         ,50   ,00        ,84   0,001
+
+
+
+
+Analiza wariancji
+
+       Następnie, przystąpiono do przetestowania postawionej hipotezy badawczej. W celu
+
+sprawdzenia różnic pomiędzy pomiarami pretestu i posttest z uwzględnieniem czynnika
+
+niezależnego (grupy badawcze) wykorzystano jednoczynnikową analizę wariancji z
+
+powtarzanym pomiarem.
+
+
+       Wyniki testów homogeniczności wariancji dla obu pomiarów były nieistotne
+
+statystycznie (p > 0,05). Rezultaty przeprowadzonej ANOVY wskazały na brak istotnego
+
+statystycznie efektu głównego dla powtarzanych pomiarów (tabela 3). Jednakże, interakcja
+
+pomiędzy pomiarami niezależnymi (grupa badawcza) a zależnymi (pretest vs. posttest)
+
+okazała się być istotna statystycznie, a wielkość efektu wyniosła 6% wyjaśnionej wariancji
+
+(tabela 3).
+
+
+
+
+       Tabela 3
+
+
+       Współczynniki modelu jednoczynnikowej ANOVy z powtarzanym pomiarem
+
+                                                              Df               D
+                                           F                                                P            η2
+        Efekt                                        1                    f2
+                                                                                                           15
+
+                                                                              6
+                                              2,             1,                         0,
+       Pomiar (pre vs. postest)                                                                         0,03
+                                         21             00             7,00       142
+
+                                              4,             1,               6         0,
+       Pomiar * grupa badawcza                                                                          0,06
+                                         12             00             7,00       046
+
+
+
+
+       W kolejnym kroku sprawdzone zostały efekty proste w obu możliwych kombinacjach
+
+tj. sprawdzenie różnice pomiędzy pre a posttestem z poziomu obu grup oraz sprawdzenie
+
+różnice pomiędzy grupą A i B z poziomu każdego pomiaru. Wyniki porównań wielokrotnych
+
+z poprawką Sidaka wskazały na jeden istotny statystycznie efekt prosty. Średnia wartość
+
+oceny szans w post-teście w grupie B była istotnie niższa niż średnia wartość oceny szans w
+
+preteście w grupie B. Pozostałe porównania wielokrotne okazały się być nieistotne
+
+statystycznie (p > 0,05). Dokładne wartości średnie i błędy standardowe wraz z oznaczeniem
+
+istotnego wyniku porównań wielokrotnych zawarto w tabeli 4.
+
+
+
+
+       Tabela 4
+
+
+       Tabela statystyk opisowych z oznaczeniami efektów prostych
+
+
+
+                                                             Pretest                         Posttest
+
+                  Grupa badawcza                       M                SE              M                SE
+                                                       7,4              0,4                             0,5
+                       Grupa A                                                        7,50
+                                                   3              9                                1
+                                                       7,9              0,6           7,48              0,6
+                       Grupa B                     a                              a
+                                                2            5                                     7
+       a
+           istotne wyniki testów dla porównań wielokrotnych - Sidak
+                                                                                       16
+
+
+
+
+       Rysunek 1. Oszacowane średnie brzegowe dla pretestu i posttestu w podziale na grupy
+
+badawcze z 95% Przedziałami Ufności.
+
+
+
+                                        Dyskusja
+
+
+       Celem pracy było sprawdzenie czy zestawienie ze sobą danych dotyczących
+
+śmiertelności wskutek choroby COVID-19 z szansą na zgon z powodu niepożądanych
+
+odczynów poszczepiennych zmieni ocenę prawdopodobieństwa śmierci na korzyść
+
+szczepionek jako tych bezpieczniejszych. Dodatkowo zakładano, że zrozumienie relacji
+
+statystycznej pozwoli na łatwiejsze osadzenie danych o śmiertelności szczepionek w
+
+poznanym kontekście statystycznym i zniwelowanie negatywnego wpływu czystej ekspozycji
+
+na wartości bezwzględne mogące wywołać awersje poprzez wywoływanie negatywnych
+
+emocji. Kolejnym celem była taka prezentacja danych która nie wywołała by efektu backfire,
+
+czyli jeszcze mocniejszego okopania się w poprzednim stanowisku.
+                                                                                            17
+
+
+       Hipoteza pierwsza, o zmniejszeniu przekonania dotyczącego zagrożenia śmierci
+
+wynikającego ze szczepień po przedstawieniu danych w kontekście COVID-19 vs NOP’y nie
+
+potwierdziła się. Mimo iż efekt istotny statystycznie występował wewnętrznie w grupie B w
+
+której najpierw przedstawiono dane COVID-19 vs NOPy a potem same NOP’y to porównanie
+
+pre-testów w obydwu grupach, mimo zauważalnych różnic w średnich, nie przyniosło
+
+statystycznie istotnych rezultatów.
+
+       Podobnie ekspozycja na dane o śmiertelności COVID vs NOP’y w grupie B w relacji
+
+nie miała wpływu na późniejszą ocenę zagrożeń po pojawieniu się planszy z samymi
+
+NOP’ami. Założenie, że osoby, które najpierw zobaczą relację statystyczną, będą odporne na
+
+dokładnie te same dane liczbowe bez tej relacji, okazało się błędne i nie zostało potwierdzone.
+
+Ciekawym aspektem, nad którym można się zastanowić jest to czy osoby mające styczność z
+
+planszą COVID-19 vs NOP faktycznie zrozumiały to jak duża jest różnica w
+
+prawdopodobieństwie zgonów. Potencjalne pytanie o to jak duża była to różnica mogłoby się
+
+pojawić po wypełnieniu pretestu i posttestu, tak aby nie wpłynąć na uzyskane w nich wyniki.
+
+Jeśli relacja ta nie została zrozumiana, być może warto by popracować nad jeszcze bardziej
+
+przystępną formą jej prezentacji.​
+
+​      Pozytywnym aspektem wynikającym z badania jest brak powstawania efektu backfire.
+
+Osoby, które najpierw zostały poddane ekspozycji planszy z zagrożeniami z samych NOPów
+
+nie zmieniły stanowiska na jeszcze bardziej negatywne w stosunku do szczepień po
+
+prezentacji danych COVID-19 vs NOP’y.
+
+       Badanie dotyczyło przekonań, na które większośc osób, po upływie półtora roku od
+
+wybuchu pandemii na początku 2020 roku, mogła mieć już wyrobione zdanie. Wśród
+
+respondentów badania było prawie dwa razy więcej kobiet. Grupa A liczyła 44 osoby a 25
+
+liczyła grupa B. Tak duża rozbieżność w ilości badanych w grupach mogła wynikać z faktu,
+                                                                                       18
+
+
+że zderzenie z informacjami o zgonach z NOPów, pojawiające się jako pierwsze w grupie A,
+
+było ciekawsze dla respondentów ze względu na efekt preferencji negatywności i ci chętniej
+
+dochodzili do końca kwestionariusza.
+                                                                                         19
+
+
+
+
+                                        Bibliografia
+
+       Kahneman, Daniel. "A perspective on judgment and choice: mapping bounded
+
+rationality." American psychologist 58.9 (2003): 697.
+
+
+
+       Phillips, W. J., Fletcher, J. M., Marks, A. D., & Hine, D. W. (2016). Thinking styles
+
+and decision making: A meta-analysis. Psychological Bulletin, 142(3), 260.
+
+
+
+       Parmet, W. E., & Paul, J. (2020). COVID-19: The First Posttruth Pandemic.
+
+
+
+       Bergquist, M., Nilsson, A., & Schultz, P. (2019). Experiencing a Severe Weather Event
+
+Increases Concern About Climate Change. Frontiers in psychology, 10, 220.
+
+
+
+       Nickerson, Raymond S. "Confirmation bias: A ubiquitous phenomenon in many
+
+guises." Review of general psychology 2.2 (1998): 175-220.
+
+
+
+       Kuklinski, J. H., Quirk, P. J., Jerit, J., Schwieder, D., & Rich, R. F. (2000).
+
+Misinformation and the currency of democratic citizenship. Journal of Politics, 62(3),
+
+790-816.
+
+
+
+       Kunda, Z. (1990). The case for motivated reasoning. Psychological bulletin, 108(3),
+
+480.
+                                                                                           20
+
+
+       Fernbach, P. M., Light, N., Scott, S. E., Inbar, Y., & Rozin, P. (2019). Extreme
+
+opponents of genetically modified foods know the least but think they know the most. Nature
+
+Human Behaviour, 3(3), 251-256.
+
+
+
+       Haselton, M. G., Nettle, D., & Murray, D. R. (2015). The evolution of cognitive bias.
+
+The handbook of evolutionary psychology, 1-20.
+
+
+
+       Lazer, D. M., Baum, M. A., Benkler, Y., Berinsky, A. J., Greenhill, K. M., Menczer, F.,
+
+... & Schudson, M. (2018). The science of fake news. Science, 359(6380), 1094-1096.
+
+
+
+       Pronin, E., Lin, D. Y., & Ross, L. (2002). The bias blind spot: Perceptions of bias in
+
+self versus others. Personality and Social Psychology Bulletin, 28(3), 369-381.
+
+
+       Swire-Thompson, B., DeGutis, J., & Lazer, D. (2020). Searching for the backfire
+
+effect: Measurement and design considerations.
+
+
+
+       Horne, Z., Powell, D., Hummel, J. E., & Holyoak, K. J. (2015). Countering
+
+antivaccination attitudes. Proceedings of the National Academy of Sciences, 112(33),
+
+10321-10324.
+
+
+
+        Nyhan, B., & Reifler, J. (2010). When corrections fail: The persistence of political
+
+misperceptions. Political Behavior, 32(2), 303-330.
+                                                                                    21
+
+
+       Niepożądane odczyny poszczepienne. (2021, 2 Czerwca). Gov.pl. Uzyskano 1
+
+Września, 2021, z https://www.gov.pl/web/szczepimysie/niepozadane-odczyny-poszczepienne
+
+
+
+       Covid Deaths, (2021, 2 Czerwca). Ourworldindata.org. Uzyskano 1 Września, 2021 z
+
+https://ourworldindata.org/covid-deaths
+
