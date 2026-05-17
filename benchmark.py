@@ -51,8 +51,8 @@ POLISH_DIACRITICS = set("ąćęłńóśźżĄĆĘŁŃÓŚŹŻ")
 # `methods` empty means "all available". `metrics=False` skips CSV row writes
 # (use for production runs where you just want artifacts).
 MODES: dict[str, dict] = {
-    "quick":      {"methods": [],                                       "max_pages": 2,    "metrics": True,
-                   "desc": "Smoke test: 2 pages per doc, all available methods."},
+    "quick":      {"methods": [],                                       "max_pages": 2,    "metrics": False,
+                   "desc": "Smoke test: 2 pages per doc, all available methods. Skips CSV — partial-page metrics vs full-doc GT are misleading."},
     "production": {"methods": ["ocrmypdf"],                             "max_pages": None, "metrics": False,
                    "desc": "Single best method (OCRmyPDF) — no benchmark CSV, just DOCX/ODT artifacts."},
     "compare":    {"methods": ["ocrmypdf", "tess_best_psm1",

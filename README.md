@@ -205,6 +205,51 @@ Pre-extracted from searchable source PDFs:
 To add ground-truth for another doc: put `ground-truth-txt/<folder_name>.txt` next to the
 existing ones.
 
+## Results
+
+`python benchmark.py --mode full` on Linux 6.17 x86_64, Python 3.12.3, Tesseract 5.3.4,
+CPU-only. Lower is better for CER/WER/diacritic_cer; higher is better for number_accuracy.
+
+**COVID-19 vs Szczepienia** (22 pages, scanned thesis, mixed body + figures)
+
+| Method            | CER    | WER    | diacritic_cer | number_accuracy | seconds | peak RSS |
+|-------------------|--------|--------|---------------|-----------------|---------|----------|
+| `ocrmypdf`        | **0.027** | **0.155** | 0.009         | 0.902           | **11.9** | 555 MB  |
+| `tess_best_psm4`  | 0.029  | 0.157  | **0.003**     | 0.922           | 16.7    | **156 MB** |
+| `tess_best_psm1`  | 0.029  | 0.159  | 0.004         | 0.898           | 21.0    | **130 MB** |
+| `tess_fast_psm1`  | 0.029  | 0.156  | 0.010         | 0.906           | 18.5    | **156 MB** |
+| `tess_best_psm6`  | 0.031  | 0.202  | 0.005         | 0.941           | 16.4    | **156 MB** |
+| `rapidocr`        | 0.128  | 0.371  | 0.431         | **0.996**       | 20.8    | 849 MB   |
+
+**Wydział Psychologii — Standardy pisania pracy dyplomowej** (11 pages, born-digital style guide)
+
+| Method            | CER    | WER    | diacritic_cer | number_accuracy | seconds | peak RSS |
+|-------------------|--------|--------|---------------|-----------------|---------|----------|
+| `ocrmypdf`        | **0.063** | 0.149  | 0.019         | 0.993           | **7.8** | 1092 MB  |
+| `tess_best_psm1`  | 0.064  | 0.152  | **0.013**     | **1.000**       | 13.2    | 640 MB   |
+| `tess_best_psm4`  | 0.064  | 0.155  | **0.013**     | **1.000**       | 10.9    | 640 MB   |
+| `tess_fast_psm1`  | 0.065  | **0.151** | **0.013**  | 0.993           | 11.4    | 640 MB   |
+| `rapidocr`        | 0.079  | 0.310  | 0.396         | **1.000**       | 11.4    | 1116 MB  |
+| `tess_best_psm6`  | 0.091  | 0.206  | 0.033         | 0.986           | 10.4    | 640 MB   |
+
+### Takeaways
+
+- **OCRmyPDF wins on raw CER/WER and is the fastest.** Deskew + clean + rotate pays off
+  on scanned input, even with Tesseract under the hood. Recommended default.
+- **Tesseract `tessdata_best` PSM 1/4 is the winner on Polish diacritics**
+  (`diacritic_cer` ≤ 1.3 %). PSM 6 (uniform block) is the worst on layout-heavy pages —
+  do not use it for prose.
+- **`tessdata_fast` matches `tessdata_best` on CER** but loses ~2× on diacritic accuracy
+  (1.0 % vs 0.3–0.4 %). Use only when speed matters more than diacritics.
+- **RapidOCR is the wrong tool for Polish prose**: 13 % CER and 40 %+ diacritic error on
+  both docs, despite using the PP-OCRv5 Latin recognizer. It does, however, recover numbers
+  almost perfectly (99.6–100 %) — keep it in mind for numeric forms / receipts where
+  diacritics don't matter.
+- Memory: Tesseract methods stay under 700 MB; OCRmyPDF and RapidOCR climb past 1 GB on the
+  longer doc. None of this is a problem on a modern laptop.
+
+Raw rows live in `output/results.csv` after each run.
+
 ## Folder layout
 
 ```
