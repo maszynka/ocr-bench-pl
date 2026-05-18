@@ -57,7 +57,6 @@ def _ocr_to_pdf_and_text(pages: list[Path], lang: str, out_pdf: Path, out_txt: P
     not a throwaway in a tempdir like the benchmark does.
     """
     import ocrmypdf
-    from PIL import Image as PILImage
 
     from benchmark import page_to_pil_image  # local import to avoid heavy top-level cost
 

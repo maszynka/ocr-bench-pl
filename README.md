@@ -74,7 +74,13 @@ If you just want OCR (not a method comparison), use the standalone script — it
 python scripts/ocr_folder.py /path/to/scans/ -o ~/OCR/
 ```
 
-End-to-end recipes for popular scanners (NAPS2, VueScan, ScanSnap, HP Smart, Apple Image Capture, Windows Fax & Scan, SANE, mobile apps) live in [docs/PIPELINE.md](docs/PIPELINE.md).
+End-to-end recipes for popular scanners (NAPS2, VueScan, ScanSnap, HP Smart, Apple Image Capture, Windows Fax & Scan, SANE, mobile apps) live in [docs/PIPELINE.md](docs/PIPELINE.md). When something breaks, see [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) — it catalogs the real failure modes (missing tessdata, HEIC pages, page-ordering footgun, RapidOCR offline, watch races, etc.).
+
+Tests for pure helpers (`slugify`, metric normalization, page discovery, mode presets) live under `tests/`. Run with:
+
+```bash
+.venv/bin/pytest tests/
+```
 
 ## Auto-OCR after scan
 
