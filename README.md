@@ -66,6 +66,16 @@ python benchmark.py --no-metrics                 # produce artifacts but skip CS
 
 Explicit `--method` / `--max-pages` override the chosen `--mode` defaults.
 
+## OCR-only pipeline (no benchmark)
+
+If you just want OCR (not a method comparison), use the standalone script — it accepts any folder and writes a searchable PDF + TXT + DOCX + ODT:
+
+```bash
+python scripts/ocr_folder.py /path/to/scans/ -o ~/OCR/
+```
+
+End-to-end recipes for popular scanners (NAPS2, VueScan, ScanSnap, HP Smart, Apple Image Capture, Windows Fax & Scan, SANE, mobile apps) live in [docs/PIPELINE.md](docs/PIPELINE.md).
+
 ## Auto-OCR after scan
 
 Three paths, pick whichever fits the workstation. All of them ultimately call
